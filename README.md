@@ -157,3 +157,7 @@ Python, pandas, NumPy, scikit-learn, imbalanced-learn, XGBoost, Matplotlib, Seab
 `Sai Kumar Dandupati` | `https://github.com/saikumard2k1`
 
 Capstone project PRCP-1007 (Liver Patient Disease Prediction), Datamites.
+
+## 12. App URL:
+
+https://liver-disease-prediction-app-yfa2.onrender.com/
